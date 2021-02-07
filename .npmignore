@@ -1,0 +1,14 @@
+# npm
+node_modules
+
+# dev
+src
+babel.config.json
+tsconfig.json
+webpack.config.js
+
+# ide
+.idea
+
+# pack
+*.tgz
